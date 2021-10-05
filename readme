@@ -1,0 +1,4 @@
+$ sudo apt install ros-noetic-soem
+
+$ cd ethercat_ws
+$ catkin build
