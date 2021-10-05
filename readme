@@ -1,4 +1,6 @@
 $ sudo apt install ros-noetic-soem
 
+rtc_bridge_srv move to ethercat_ws/src
 $ cd ethercat_ws
+$ catkin build rtc_bridge_srv
 $ catkin build
